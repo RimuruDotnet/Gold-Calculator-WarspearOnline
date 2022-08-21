@@ -8,8 +8,6 @@
 /[Uu]ser[Ss]ettings/
 /[Tt]rash/
 /[Bb]uild/
-/[Kk]eys/
-/[Tt]rash
 /Logs/
 
 #new
@@ -21,7 +19,6 @@
 */[Bb]uilds/
 */[Ll]ogs/
 */[Mm]emoryCaptures/
-*/[Tt]rash
 */Logs/
 */.vs/
 *ExportedObj/
@@ -48,6 +45,7 @@
 *.unitypackage
 crashlytics-build.properties
 
+#VS
 *.vsconfig
 .vsconfig
 #end new
